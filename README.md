@@ -3,6 +3,7 @@
 
 ## Fork of jcf-junior's repo minus the Caps Lock/Fn(1) change. Clean firmware for flashing for VIA support, all credit for jcf-junior.
 
+
 QMK firmware for the Glorious GMMK Pro with Via support enabled.
 
 The leds are white by default and switch to red when Caps Lock is on.
